@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasswardManager</string>
+    <string name="accessibility_description">用于密码管理</string>
+    <string name="please_input_password">请输入密码</string>
+</resources>
