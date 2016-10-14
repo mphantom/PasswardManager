@@ -9,5 +9,5 @@ public class SharedPerferentUtil {
 
     }
 
-    public static
+//    public static
 }
